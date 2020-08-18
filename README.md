@@ -1,3 +1,7 @@
+# tdd-talk-react-starter
+
+This is the base project for a talk on demonstracting Test-Driven Development in React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
