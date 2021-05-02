@@ -1,4 +1,4 @@
-function findChristmasSundays() {
+function findChristmasSundays () {
 
 }
 
